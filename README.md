@@ -62,7 +62,6 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.dribbble.com/users/2475489/screenshots/9239848/media/ff48675e4dd24c950af1dda5ac3c6019.gif"  />
 
 ###
 
