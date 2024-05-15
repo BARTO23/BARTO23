@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤙, I´m BARTO23</h1>
+<h1 align="center">Hi 🤙, I´m Juan Pablo Tobar</h1>
 
 ###
 
