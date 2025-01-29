@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
 </div>
 
 ###
