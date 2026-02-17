@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="BARTO23's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BARTO23?cardType=level&fontFamily=&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="BARTO23's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BARTO23?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
 </div>
 
 ---
