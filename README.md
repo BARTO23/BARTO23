@@ -1,4 +1,6 @@
-# <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=260&section=header&text=Juan%20Pablo%20Tobar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Systems%20Engineer%20/%20Frontend%20&%20Data&descAlignY=60&descSize=20" /> </div>
+<div align="center">
+  <video src="URL_DE_TU_VIDEO" width="100%" autoplay loop muted playsinline></video>
+</div>
 
 <div align="center">
   <a href="https://github.com/BARTO23">
@@ -10,39 +12,41 @@
 </div>
 
 <h1 align="center">
-  <font color="#5eead4">Hi there 👋, < devs /> </font>
+  <font color="#5eead4">Hi there 👋, I'm < JuanPablo /> </font>
 </h1>
 
 <p align="center">
-  [cite_start]My name is <b>Juan Pablo Tobar Muñoz</b>[cite: 1, 54]. [cite_start]I am a <b>Systems Engineer</b>  passionate about web development and data engineering. 
-  [cite_start]I specialize in building modern interfaces with <b>React</b> and <b>Next.js</b> [cite: 8, 30] while developing automated data pipelines 
-  [cite_start]using <b>Python</b>, <b>SQL</b>, and <b>Airflow</b>[cite: 56, 57, 78]. My focus is on turning complex data into practical, 
-  [cite_start]user-centric solutions[cite: 60].
+  [cite_start]My name is <b>Juan Pablo Tobar Muñoz</b>[cite: 1, 54]. [cite_start]I am a <b>Systems Engineer</b> dedicated to bridging the gap between high-performance data architectures and modern user experiences[cite: 54, 56].
+  <br><br>
+  [cite_start]I specialize in building accessible and maintainable interfaces with <b>React and Next.js</b> [cite: 8, 30] [cite_start]while designing automated data pipelines and ETL processes using <b>Python, SQL, and Airflow</b>[cite: 56, 57, 78]. [cite_start]My focus is on turning complex data into practical, user-centric solutions[cite: 60].
 </p>
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" height="40" alt="frontend" />
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,vite" height="40" alt="frontend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,flask,mysql,mongodb,postgres" height="40" alt="backend" />
+  <h3>Backend & Data Engineering</h3>
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,fastapi,flask,mysql,mongodb,postgres" height="40" alt="backend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,airflow" height="40" alt="infrastructure" />
+  <h3>Tools & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,airflow,vscode,postman" height="40" alt="infrastructure" />
 </div>
 
 ---
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">📊 Statistics</h2>
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
+      <td align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BARTO23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
       </td>
-      <td>
+      <td align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARTO23&layout=compact&theme=tokyonight&hide_langs=html,css" />
       </td>
     </tr>
@@ -51,6 +55,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&section=footer&text=With%20❤️%20from%20Colombia&fontSize=20&fontColor=5eead4" />
-</div>
+<h2 align="center">📜 Quick Facts</h2>
+<p align="center">
+  [cite_start]🎓 <b>Education:</b> Systems Engineering at Universidad Católica Luis Amigó[cite: 22, 69].<br>
+  [cite_start]🌍 <b>Languages:</b> Spanish (Native) and English (B1 Certified)[cite: 51, 96, 102].<br>
+  [cite_start]🚀 <b>Core Focus:</b> Clean code, scalable data pipelines, and responsive web design[cite: 8, 68].
+</p>
