@@ -53,8 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BARTO23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARTO23&layout=compact&theme=tokyonight&hide=html,css" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BARTO23?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 ---
