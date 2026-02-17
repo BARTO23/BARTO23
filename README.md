@@ -38,7 +38,7 @@
 <br /><br />
 
 ### Backend & Data Engineering
-<img src="https://skillicons.dev/icons?i=py,nodejs,express,fastapi,flask,mysql,mongodb,postgres" height="40" />
+<img src="https://skillicons.dev/icons?i=py,nodejs,express,fastapi,apache,flask,mysql,mongodb,postgres" height="40" />
 
 <br /><br />
 
