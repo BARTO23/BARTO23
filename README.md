@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤙, I'm Juan Pablo Tobar</h1>
 <p align="center">
-<strong>Systems Engineer | Full-Stack Developer | Data Enthusiast</strong>
+<strong>Systems Engineer | Full-Stack Developer | Data Engineer</strong>
 
 
 👨‍💻 About Me
