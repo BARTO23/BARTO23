@@ -44,7 +44,7 @@
 
 ### Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman" height="40" />
-<img src="https://dashboardicons.com/icons/apache-airflow" height="40" alt="Airflow" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/AirflowLogo.png" height="40" alt="Apache Airflow" />
 
 </div>
 
