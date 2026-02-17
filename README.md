@@ -43,8 +43,8 @@
 <br /><br />
 
 ### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,airflow,vscode,postman" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Airflow" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman" height="40" />
+<img src="[https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png)" height="40" alt="Airflow" />
 
 </div>
 
